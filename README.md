@@ -1,4 +1,4 @@
-План:
+План розробки:
 
 1. **Створення класу `PalindromeChecker`:**
    - Створити клас `PalindromeChecker` у пакеті `org.example`.
